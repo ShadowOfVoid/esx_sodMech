@@ -1,2 +1,1 @@
-# esx_sodMech
- 
+Soda Makinesi Scripti (www.fivemturk.com)
